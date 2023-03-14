@@ -39,6 +39,8 @@
    
    <tr><td width="30%" valign="bottom"><img src="images/social_networks/skillfactory.png"></td><td valign="middle">Programming school (ML and DL) <a target="_blank" href="https://skillfactory.ru/data-scientist-pro">Skillfactory</a>.</td></tr>
    </tr>
+ 
+   <tr><td width="30%" valign="bottom"><img src="images/social_networks/shultais.png"></td><td valign="middle">Programming school Python <a target="_blank" href="https://shultais.education/lms/courses">shultais school</a>.</td></tr>
 
    <tr><td width="30%" valign="bottom"><img src="images/social_networks/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
    </tr>
