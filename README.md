@@ -23,6 +23,8 @@
   <a href="https://mail.google.com/mail/u/0/?ogbl#inbox?compose=DmwnWrRlRjJHDstQKfqbBPWsvShdDGglmJpTgrQTFhgFrjKxlzLzcBxlDMljTmFtKvHVPrvVsfKQ"><img width="37px" alt="Write me Email" title="Gmail" src="images/social_networks/gmail.png"/></a>
 </p>
 
+<p><a href="https://disk.yandex.ru/d/uNwqhAVjSWqrNw">Certificates</a> 📜</p>
+
 
 <!--Education-->
 
