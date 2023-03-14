@@ -88,7 +88,7 @@
 
 ### [API autotests](https://github.com/mkdv00/reqres_in) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
 
-### [Mobile autotests](https://github.com/surovp/Mobile_Wiki) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
+### [Mobile autotests](https://github.com/mkdv00/wikipedia-mobile) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
 
 
 <!--Git Stats-->
