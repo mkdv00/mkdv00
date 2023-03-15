@@ -8,6 +8,7 @@
 <!--About me-->
 
 ## :information_desk_person:About me
+
 - My name is Maks, I'm 23 years old.
 - I'm automation engineer from Saransk.
 - I work QA about 5 years (4 years AQA).
@@ -25,35 +26,23 @@
 
 <p><a href="https://disk.yandex.ru/d/uNwqhAVjSWqrNw">Certificates</a> 📜</p>
 
+<!--Git Stats-->
 
-<!--Education-->
+&#8287;&#8287;&#8287;&#8287;&#8287;
 
-## :man_student:Education
-<table width="100%" border='0'>
-   <tr> 
-    <td width="30%" valign="bottom"><img src="images/social_networks/univer_logo.jpg"></td><td valign="middle">National Research Mordovian State University named after N.P. Ogarev. Direction - Mechanic technician.</td></tr>
-  </table>
-  </br>
-  
-  #### Additional Education:
-<table width="100%" border='0'>
-   <tr><td width="20%" valign="bottom"><img src="images/social_networks/app_brewery.png"></td><td valign="middle">Programming school Python <a target="_blank" href="https://appbrewery.com/">App Brewery</a>.</td></tr>
-   
-   <tr><td width="30%" valign="bottom"><img src="images/social_networks/skillfactory.png"></td><td valign="middle">Programming school (ML and DL) <a target="_blank" href="https://skillfactory.ru/data-scientist-pro">Skillfactory</a>.</td></tr>
-   </tr>
- 
-   <tr><td width="30%" valign="bottom"><img src="images/social_networks/shultais.png"></td><td valign="middle">Programming school Python <a target="_blank" href="https://shultais.education/lms/courses">shultais school</a>.</td></tr>
+## :bar_chart:Git stats
 
-   <tr><td width="30%" valign="bottom"><img src="images/social_networks/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
-   </tr>
-  </table>
-  
-  
-  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mkdv00&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mkdv00&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkdv00&theme=tokyonight)
+
+
 <!--Stack and tools-->
 
 &#8287;&#8287;&#8287;&#8287;&#8287;
+
 ## :briefcase: Technologies
+
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="images/logo_stacks/pycharm.png"></code>
   <code><img width="5%" title="Python" src="images/logo_stacks/python.png"></code>
@@ -83,22 +72,38 @@
   <code><img width="5%" title="Xmind" src="images/logo_stacks/xmind.png"></code>
   <code><img width="5%" title="K6" src="images/logo_stacks/K6-logo.svg.png"></code>
 </p>
-  
-  
+
+
 <!--Projects-->
 
 ## :floppy_disk:Projects
+
 ### [UI autotests](https://github.com/mkdv00/ui_demoqa) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
 
 ### [API autotests](https://github.com/mkdv00/reqres_in) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
 
 ### [Mobile autotests](https://github.com/mkdv00/wikipedia-mobile) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
 
+<!--Education-->
 
-<!--Git Stats-->
+## :man_student:Education
 
-&#8287;&#8287;&#8287;&#8287;&#8287;
-## :bar_chart:Git stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mkdv00&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mkdv00&theme=tokyonight) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mkdv00&theme=tokyonight)
+<table width="100%" border='0'>
+   <tr> 
+    <td width="30%" valign="bottom"><img src="images/social_networks/univer_logo.jpg"></td><td valign="middle">National Research Mordovian State University named after N.P. Ogarev. Direction - Mechanic technician.</td></tr>
+  </table>
+  </br>
+
+#### Additional Education:
+
+<table width="100%" border='0'>
+   <tr><td width="20%" valign="bottom"><img src="images/social_networks/app_brewery.png"></td><td valign="middle">Programming school Python <a target="_blank" href="https://appbrewery.com/">App Brewery</a>.</td></tr>
+
+   <tr><td width="30%" valign="bottom"><img src="images/social_networks/skillfactory.png"></td><td valign="middle">Programming school (ML and DL) <a target="_blank" href="https://skillfactory.ru/data-scientist-pro">Skillfactory</a>.</td></tr>
+   </tr>
+
+   <tr><td width="30%" valign="bottom"><img src="images/social_networks/shultais.png"></td><td valign="middle">Programming school Python <a target="_blank" href="https://shultais.education/lms/courses">shultais school</a>.</td></tr>
+
+   <tr><td width="30%" valign="bottom"><img src="images/social_networks/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+   </tr>
+  </table>
