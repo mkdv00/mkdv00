@@ -9,9 +9,9 @@
 
 ## :information_desk_person:About me
 
-- My name is Maks, I'm 23 years old.
+- My name is Maks, I'm 25 years old.
 - I'm automation engineer from Saransk.
-- I work QA about 5 years (4 years AQA).
+- I work QA about 7 years (6 years AQA).
 - I write autotests in Python, JS
 - Contacts:
 
